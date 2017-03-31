@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cricket Score Keeper</string>
+    <string name="oneScore">+1 Score</string>
+    <string name="fourScore">+4 Score</string>
+    <string name="sixScore">+6 Score</string>
+    <string name="outScore">Out</string>
+    <string name="oneBall">+1 Over</string>
+</resources>
